@@ -1,10 +1,17 @@
 Project OVERVIEW
+
 <img width="823" height="436" alt="image" src="https://github.com/user-attachments/assets/b037f50a-4861-4eb6-97c2-1efd8593ba05" />
+
 Step 1: upload Your photo after that click to Analyze
+
 <img width="790" height="441" alt="image" src="https://github.com/user-attachments/assets/96e93b42-9978-47ce-af3b-cb61faac31a2" />
+
 Step 2: Click to color as you need 
+
 <img width="816" height="438" alt="image" src="https://github.com/user-attachments/assets/0a2a270a-9925-4c00-9372-bbc333747579" />
+
 Step 4: See the Difference 
+
 <img width="825" height="538" alt="image" src="https://github.com/user-attachments/assets/246298b6-6f8f-48c5-9977-8716cb97cb3f" />
 
 # Run and deploy your AI Studio app :
