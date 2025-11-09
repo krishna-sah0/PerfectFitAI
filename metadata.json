@@ -1,0 +1,5 @@
+{
+  "name": "AI Virtual Tailor & Stylist",
+  "description": "An AI-powered application that analyzes a person's photo to estimate body measurements, recommend clothing sizes, identify body type, and suggest flattering outfits. This tool is designed to assist with virtual fittings and style recommendations, promoting a positive and helpful user experience.",
+  "requestFramePermissions": []
+}
